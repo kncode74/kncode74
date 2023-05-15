@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khuannapa Thaijuntuk(khongkhuan)</h1>
-<h3 align="center">Babykwanisgrewup()=>(happy,peace)\br{return me}</h3>
+<h3 align="center">Babykwanisgrewup()=>(happy,peace)/br{return me}</h3>
 
 - 🌱 I’m currently learning **FLutter,React and Everything**
 
