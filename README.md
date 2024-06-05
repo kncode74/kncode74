@@ -5,7 +5,7 @@
     return me ;
   }</h3>
 
-- 🌱 I’m currently learning **FLutter and React**
+- 🌱 I’m currently learning **Flutter and React**
 
 - 📫 How to reach me **khongkhuan49@gmail.com**
 
