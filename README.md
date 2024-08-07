@@ -3,8 +3,7 @@
 <h3 align="center">_babykwanIsGrewUp(bool happy, bool peace) {
   happy == peace;
   return me;
-}
-  }</h3>
+}</h3>
 
 - 🌱 I’m currently learning **Flutter and Kotlin**
 
