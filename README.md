@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Unikwan </h1>
 <h2 align="center">Khuannapa Thaijuntuk </h2>
-<h3 align="center">_babykwanIsGrewUp(bool happy, bool peace) {
-  happy == peace;
-  return me;
-}</h3>
+<h3 align="center">_babykwanIsGrewUp(bool happy, bool peace) {</h3>
+ <h3> happy == peace;</h3>
+  <h3>return me;</h3>
+<h3>}</h3>
 
 - 🌱 I’m currently learning **Flutter and Kotlin**
 
