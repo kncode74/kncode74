@@ -2,8 +2,8 @@
 <h2 align="center">Khuannapa Thaijuntuk </h2>
 <h3 align="center">_babykwanIsGrewUp(bool happy, bool peace) {
  <h3 align="center"> (happy && peace) 
-    ? 'Babykwan: Happy & Peaceful 🌈' 
-    : 'Unikwan: Responsible & Thoughtful 💼';
+    ? Babykwan: Happy & Peaceful 🌈
+    : Unikwan: Responsible & Thoughtful 💼;
 }</h3>
 
 - 🌱 I’m currently learning **Flutter and Kotlin**
