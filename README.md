@@ -3,8 +3,8 @@
 
 ```
  _babykwanIsGrewUp(bool happy, bool peace) {
-        (happy && peace)```
-   ? Babykwan: Happy & Peaceful 🌈```
+         (happy && peace)
+    ? Babykwan: Happy & Peaceful 🌈
     : Unikwan: Responsible & Thoughtful 💼; }
 ```
 
