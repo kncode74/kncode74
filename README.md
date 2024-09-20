@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Unikwan </h1>
 <h2 align="center">Khuannapa Thaijuntuk </h2>
-<h3 align="center">_babykwanIsGrewUp(bool happy, bool peace) {
-        <div>(happy && peace)</div>
-        <div>? Babykwan: Happy & Peaceful 🌈</div>
-        <div>: Unikwan: Responsible & Thoughtful 💼;</div>
-</h3>
+### _babykwanIsGrewUp(bool happy, bool peace) {
+    (happy && peace)
+    ? Babykwan: Happy & Peaceful 🌈
+    : Unikwan: Responsible & Thoughtful 💼;
+}
 
 - 🌱 I’m currently learning **Flutter and Kotlin**
 
