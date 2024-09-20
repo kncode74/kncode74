@@ -2,8 +2,8 @@
 <h2 align="center">Khuannapa Thaijuntuk </h2>
 
 ```
- _babykwanIsGrewUp(bool happy, bool peace) {
-         (happy && peace)
+me  _babykwanIsGrewUp(bool happy, bool peace) {
+    return   (happy && peace)
     ? Babykwan: Happy & Peaceful 🌈
     : Unikwan: Responsible & Thoughtful 💼; }
 ```
