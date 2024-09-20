@@ -9,7 +9,6 @@
     </div>
 </h3>
 
-
 - 🌱 I’m currently learning **Flutter and Kotlin**
 
 - 📫 How to reach me **khongkhuan49@gmail.com**
