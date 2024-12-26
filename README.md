@@ -8,7 +8,7 @@
 ```dart
 try {
   I'm coding;
-} catch {
+} catch(e) {
   // Learning through mistakes, always improving!
 }
 ```
