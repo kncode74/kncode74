@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm Unikwan </h1>
-<h2 align="center">Khuannapa Thaijuntuk </h2>
+# Hi 🎀, I'm **Unikwan**  
+## **Khuannapa Thaijuntuk**
 
+```dart
+try {
+  I'm coding;
+} catch {
+  // Learning through mistakes, always improving!
+}
 ```
-me  _babykwanIsGrewUp(bool happy, bool peace) {
-    return   (happy && peace)
-    ? Babykwan: Happy & Peaceful 🌈
-    : Unikwan: Responsible & Thoughtful 💼; }
-```
 
-- 🌱 I’m currently learning **Flutter and Kotlin**
-
-- 📫 How to reach me **khongkhuan49@gmail.com**
-
+💬 Currently Working On:
+ - Building cross-platform apps with Flutter
+ - Enhancing Android app development with Kotlin
+   
+📫 How to Reach Me:
+Email: khongkhuan49@gmail.com
