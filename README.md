@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 🎀, I'm **Unikwan**  
-## Khuannapa  Thaijuntuk 
+## Kwannapa  Thaijuntuk 
 
 </div>
 
